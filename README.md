@@ -1,6 +1,7 @@
 # Sara Solano
 
-Fallbrook, CA, +1 (760)-583-0038, sarasolano101758@gmail.com
+Fallbrook, CA,
+Email: sarasolano101758@gmail.com
 
 Professional Summary:
 
