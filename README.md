@@ -25,6 +25,13 @@ January, 2023 - 1st Place Speech Contest
 Spring, 2023 - Principle’s Honor Roll
 Spring 2023- Stamp of Biliteracy in ASL
 
+## Relevent Coursework
+- Intro to CS II: Java*: Language basics, indcluding control structures, input/output, operators, classes, methods and parameters, basic inheritance.
+
+## Projects 
+- [MCC Tracker] (https://github.com/profe/MCC-Tracker): Semester-long class group project using JavaFX GUI framework and MVC paradigm to create a data tracker relevant to MiraCosta College students. 
+- 
+
 ## Leadership/Accomplishments
 Art Gallery Assistant, Fallbrook Art Center
 Volunteer, Monthly (2022-2024)
